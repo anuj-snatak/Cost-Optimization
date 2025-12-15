@@ -1,12 +1,12 @@
-# 🚀 Improvement Suggestions - AWS Budget Accelerator
+#  Improvement Suggestions - AWS Budget Accelerator
 
-## 📊 Current Code Analysis
+##  Current Code Analysis
 
 Maine aapke codebase ko analyze kiya hai. Yeh improvements kar sakte hain:
 
 ---
 
-## 🔴 Critical Improvements (High Priority)
+##  Critical Improvements (High Priority)
 
 ### 1. **Error Handling Improve Karo**
 
@@ -107,7 +107,7 @@ _validate_budget_config(args)
 
 ---
 
-## 🟡 Important Improvements (Medium Priority)
+##  Important Improvements (Medium Priority)
 
 ### 4. **Logging Improve Karo**
 
@@ -558,7 +558,7 @@ def _enable_budget_alerting(args, session):
 
 ---
 
-## 💡 Quick Wins (1-2 Hours Each)
+##  Quick Wins (1-2 Hours Each)
 
 1. **Remove exit(0)** - 5 minutes
 2. **Add cost types defaults** - 30 minutes
